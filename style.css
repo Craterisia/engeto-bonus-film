@@ -1,0 +1,63 @@
+.container {
+  border: 1px solid black;
+  width: 500px;
+  border-radius: 10px;
+  margin: 30px auto;
+  padding: 30px 30px 100px 30px;
+  position: relative;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container-heading1 {
+  margin-top: 0;
+}
+
+.img__kung-fury {
+  width: 500px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+table {
+  border: 1px solid #c4c4c4;
+}
+
+th,
+tr,
+td {
+  border: 1px solid #c4c4c4;
+  padding: 10px;
+}
+
+th {
+  text-align: left;
+}
+
+.button-detail,
+.button-facebook {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  height: 35px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.button-facebook {
+  background-color: #3b5998;
+  width: 50px;
+  border-radius: 50%;
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+}
+
+.button-detail {
+  background-color: #666;
+  width: 120px;
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+}
